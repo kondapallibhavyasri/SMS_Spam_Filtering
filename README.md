@@ -8,5 +8,5 @@ Instructions:
 7. For RandomForest classifier go to the “choose” button again, then go to trees ->RandomForest and click on “start” button, the classification starts and shows the classification.
 8. For Multinomial Naive Bayes classifier go to the “choose” button again, then go to bayes ->NaiveBayesMultinominalText and click on “start” button, the classification starts and shows the classification.
 9. For K-Nearest Neighbors classifier go to the “choose” button again, then go to lazy ->IBk and click on “start” button, the classification starts and shows the classification.
-10. 10. For SVM (LibSVM) classifier go to the “choose” button again, then go to functions ->SMO(for my weka 3.8.6 version only SMO is available for SVM classification) and click on “start” button, the classification starts and shows the classification.
+10. For SVM (LibSVM) classifier go to the “choose” button again, then go to functions ->SMO(for my weka 3.8.6 version only SMO is available for SVM classification) and click on “start” button, the classification starts and shows the classification.
 11. To save the classification output you can right click on the specific classification file present in Result list and “save as model”.
